@@ -1,4 +1,4 @@
-# c-stupid-invaders
+# c-space-invaders
 Student project done in two days at the end of the C sandbox at Isart Digital during the Game Programing program.
 
 Controls are very simple :
